@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
-import {Text, View, TextInput, Button, AsyncStorage, Keyboard} from "react-native";
+import {Text, View, TextInput, Button, Keyboard} from "react-native";
+import AsyncStorage from '@react-native-community/async-storage';
 import {app} from '../app/app';
 
 class ProfileScreen extends Component {

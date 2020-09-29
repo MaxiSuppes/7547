@@ -25,5 +25,8 @@ yarn-error.log*
 # ide
 .idea
 
+# expo
+.expo
+
 # environment config
-.env
+environments.js
